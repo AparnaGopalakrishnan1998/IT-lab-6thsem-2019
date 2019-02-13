@@ -1,0 +1,33 @@
+
+div p{
+	color:black;
+	font-style:italic;
+	font-weight:bolder;
+	text-indent:1cm;
+	letter-spacing:1px;
+	word-spacing:5px;
+	text-transform:capitalize;
+	text-decoration:underline line-through overline;
+	text-shadow: 2px 2px 2px yellow;
+	font-family: Times New Roman,serif;
+	font-size:20;
+	
+}
+ 
+img{
+border:5px dotted black;
+width:40%;
+height:40%;
+ display: block;
+    margin: 0 auto;
+}
+h1{
+text-align:center;
+text-shadow: 2px 2px 2px blue;
+
+}
+body{
+background-image:url("/home/itsec3/Desktop/index.png");
+background-repeat:no-repeat;
+background-attachment:fixed;
+}

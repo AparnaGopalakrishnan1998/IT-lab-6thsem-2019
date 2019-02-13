@@ -1,0 +1,26 @@
+
+	
+		h4,h5{ background-color: lightblue;
+		       color:red;
+		}
+		div.division{
+			background-color:yellow;
+			font-size:30px;
+		}
+		.division2{
+			background-color:purple;
+			color:white;
+		}
+		#id1{
+		background-color:pink;
+		color:blue;
+		}
+		body {
+background-image:url(flower.jpg);
+background-size:300,200;
+background-repeat:no-repeat;
+ font-family: Courier New;
+}
+
+
+		
